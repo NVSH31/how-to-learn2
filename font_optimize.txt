@@ -1,0 +1,83 @@
+.header__title {
+  line-height: 96px;
+  font-size: 102px;
+  font-weight: 600;
+}
+.header__subtitle {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+description
+.two-columns__brief {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+.two-columns__main-text {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+.two-columns__span-accent {
+  font-weight: 600;
+}
+
+digits
+.section-title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+}
+.section-subtitle {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+.table__heading {
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: 600;
+}
+.table__text {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+feynman
+.feynman__title {
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+}
+.feynman__subtitle {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+.feynman__link {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+kaufman
+
+footer
+.footer__column-heading {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: 600;
+}
+.footer__column-link {
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+}
+.footer__author {
+  line-height: 25px;
+  font-size: 18px;
+  font-weight: normal;
+}
