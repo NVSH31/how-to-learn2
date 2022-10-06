@@ -3,7 +3,9 @@
   padding: 0;
   color: #2f80ed;
   text-decoration: none;
+  transition: 1s linear 0.5s
 }
 .header__link:hover {
   color: #8aa9d3;
+  opacity: 1;
 }

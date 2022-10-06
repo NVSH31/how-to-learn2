@@ -1,15 +1,11 @@
 .video__iframe {
-  margin-top: 0;
-  padding: 0;
-  top: 50px;
-  display: flex;
-  position: relative;
-  height: 316px;
-  width: 515px;
+  margin-top: 50px;
+  margin-bottom: -50px;
+  padding: 0; 
+  min-height: 316px;
+  min-width: 515px;}
 
 
-
-}
 .video__iframe:first-of-type {
   margin-right: 20px;
 }
